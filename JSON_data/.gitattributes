@@ -1,0 +1,2 @@
+JSON_data/** filter=lfs diff=lfs merge=lfs -text
+CSV_data/** filter=lfs diff=lfs merge=lfs -text
