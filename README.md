@@ -1,6 +1,7 @@
 # thesis_wbk
 
 1. Requirements:
+  Desc. 
 - Keras
 - Tensorflow
 - NumPy
@@ -10,7 +11,8 @@
 - scikit learn (sklearn)
 
 2. Overview
-3. Data Collection
-4. Data Preprocessing
-5. 
-![1dCNN_structure_pres](https://user-images.githubusercontent.com/125495015/219339260-e99f9039-300d-44f4-a362-a0f05a652c13.png)
+<img width="1177" alt="image" src="https://user-images.githubusercontent.com/125495015/219341064-95b283de-06bb-4c83-9ffc-0a9c538e7edc.png">
+
+4. Data Collection
+5. Data Preprocessing
+6. 
