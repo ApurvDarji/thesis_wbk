@@ -35,6 +35,9 @@ such as 1st, 13th and 25th milling cycle, in the figure. The data when the tool 
 <img width="541" alt="number of sequences" src="https://user-images.githubusercontent.com/125495015/219396093-1d626872-cc69-428d-9e62-19ca45c8a9f5.png">
 
 # 4. Approach- a, b, c
+![image](https://user-images.githubusercontent.com/125495015/219417761-81c79dee-d891-4cf7-a71a-5c680ba6f91b.png)
+
+# 4. Approach- a, b, c
 ## Approach-a (1dCNN, LSTM, 1dCNN+LSTM)
 ### 1d CNN
 <img width="739" alt="1dCNN_structure" src="https://user-images.githubusercontent.com/125495015/219408996-c2a203e5-cd31-4bce-bf5d-8b6d5b63cf6c.png">
@@ -50,7 +53,8 @@ such as 1st, 13th and 25th milling cycle, in the figure. The data when the tool 
 <img width="1010" alt="loss_accu" src="https://user-images.githubusercontent.com/125495015/219415518-ec2e3aa6-b06d-470a-9a2e-fd2a2b604bda.png">
 
 ## Approach-b (LSTM Autoencoder)
--- autoencoder_overview
+-- autoencoder_overview.
+
 <img width="744" alt="autoencoder_overview" src="https://user-images.githubusercontent.com/125495015/219410303-22e55d0b-ae5d-4c0c-8d4d-f86fca2bde46.png">
 
 -- selecting the threshold values
@@ -68,8 +72,11 @@ such as 1st, 13th and 25th milling cycle, in the figure. The data when the tool 
 
 ### Base_model
 <img width="737" alt="loss_accu_base_model" src="https://user-images.githubusercontent.com/125495015/219412719-dcc371ec-0d46-40b3-b6b3-35603aa3e646.png">
+<img width="760" alt="confusion_matrix" src="https://user-images.githubusercontent.com/125495015/219418324-8b123c96-8e87-4584-bb83-264301b9891b.png">
 
 ### Target_model
 <img width="727" alt="loss_accuracy_before_after_TL" src="https://user-images.githubusercontent.com/125495015/219412495-7c6f2d82-f2b3-491c-a72f-4c49ee8a1cdd.png">
+<img width="683" alt="Screenshot 2023-02-16 at 16 57 50" src="https://user-images.githubusercontent.com/125495015/219419672-530ec7af-108a-41b1-9376-774aae2e224e.png">
+
 
 
