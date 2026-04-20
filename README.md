@@ -78,8 +78,8 @@ such as 1st, 13th and 25th milling cycle, in the figure. The data when the tool 
 ### Target_model
 <img width="727" alt="loss_accuracy_before_after_TL" src="https://user-images.githubusercontent.com/125495015/219412495-7c6f2d82-f2b3-491c-a72f-4c49ee8a1cdd.png">
 <img width="683" alt="Screenshot 2023-02-16 at 16 57 50" src="https://user-images.githubusercontent.com/125495015/219419672-530ec7af-108a-41b1-9376-774aae2e224e.png">
-## Related Publication
 
+## Related Publication
 This project is accompanied by the following published article:
 
 (https://link.springer.com/article/10.1007/s00170-025-15069-x)
